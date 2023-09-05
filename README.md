@@ -11,3 +11,8 @@ Las APIs desarrolladas con FastAPI en este proyecto cuentan con autentitación J
 
 ### Finalmente para poder ejecutar el proyecto, se debe usar el siguiente comando:
     > uvicorn main:app --reload
+
+
+### Usuarios y claves
+    * usuario: dev5 y clave: 123456
+    * usuario:user2 y clave: 123456
