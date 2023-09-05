@@ -15,4 +15,4 @@ Las APIs desarrolladas con FastAPI en este proyecto cuentan con autentitación J
 
 ### Usuarios y claves
     * usuario: dev5 y clave: 123456
-    * usuario:user2 y clave: 123456
+    * usuario: user2 y clave: 123456
